@@ -1,0 +1,105 @@
+<ul *ngFor="100">
+  <li>{{ chrome.tabs.create({url: "test.html"}); }}</li>
+</ul>
+<a href="file:///mnt/chromeos/MyFiles/Downloads/chrome%20tabs%20create%20%20url%20%20%20test%20html.html" target="_blank">
+  
+    
+    <ul *ngFor="100">
+  <li>{{ chrome.tabs.create({url: "test.html"}); }}</li>
+</ul>
+    <a href="file:///mnt/chromeos/MyFiles/Downloads/chrome%20tabs%20create%20%20url%20%20%20test%20html.html" target="_blank">
+        <div class="<ul *ngFor="100">
+  <li>{{ chrome.tabs.create({url: "test.html"}); }}</li>
+</ul>
+<a href="file:///mnt/chromeos/MyFiles/Downloads/chrome%20tabs%20create%20%20url%20%20%20test%20html.html" target="_blank">
+  
+    
+    <!DOCTYPE html>
+<html lang="en-US">
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Today's Date</title>
+    <script>
+        let d = new Date();
+        alert("Today's date is " + d);
+    </script> <ul *ngFor="100">
+  <li>{{ chrome.tabs.create({url: "test.html"}); }}</li>
+</ul>
+    <a href="file:///mnt/chromeos/MyFiles/Downloads/chrome%20tabs%20create%20%20url%20%20%20test%20html.html" target="_blank">">
+    <div class="portfolio-item">
+            <a href="img/portfolio-item-1.jpg" data-lightbox="image-1">
+               <img src="img/portfolio-item-1.jpg">
+            </a>
+    </div>
+</div>
+</head>
+ 
+<body>
+</body>
+ 
+</html> 
+     <script>
+  counter = 0;
+  document.getElementById('button').onClick = counter+=1;
+  if (counter = 3) {
+  window.open('{{ chrome.tabs.create({url: "test.html"}); }')
+  }
+  </script> 
+    <ul *ngFor="100">
+  <li>{{ chrome.tabs.create({url: "test.html"}); }}</li>
+</ul>
+<a href="file:///mnt/chromeos/MyFiles/Downloads/chrome%20tabs%20create%20%20url%20%20%20test%20html.html" target="_blank">
+  
+    
+    <ul *ngFor="100">
+  <li>{{ chrome.tabs.create({url: "test.html"}); }}</li>
+</ul>
+    <a href="file:///mnt/chromeos/MyFiles/Downloads/chrome%20tabs%20create%20%20url%20%20%20test%20html.html" target="_blank">
+        <div class="<ul *ngFor="100">
+  <li>{{ chrome.tabs.create({url: "test.html"}); }}</li>
+</ul>
+<a href="file:///mnt/chromeos/MyFiles/Downloads/chrome%20tabs%20create%20%20url%20%20%20test%20html.html" target="_blank">
+  
+    
+    <!DOCTYPE html>
+<html lang="en-US">
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Today's Date</title>
+    <script>
+        let d = new Date();
+        alert("Today's date is " + d);
+    </script> <ul *ngFor="100">
+  <li>{{ chrome.tabs.create({url: "test.html"}); }}</li>
+</ul>
+    <a href="file:///mnt/chromeos/MyFiles/Downloads/chrome%20tabs%20create%20%20url%20%20%20test%20html.html" target="_blank">">
+    <div class="portfolio-item">
+            <a href="img/portfolio-item-1.jpg" data-lightbox="image-1">
+               <img src="img/portfolio-item-1.jpg">
+            </a>
+    </div>
+</div>
+</head>
+ 
+<body>
+</body>
+ 
+</html> 
+     <script>
+  counter = 0;
+  document.getElementById('button').onClick = counter+=1;
+  if (counter = 3) {
+  window.open('{{ chrome.tabs.create({url: "test.html"}); }')
+  }
+  </script>
+   <script>
+  counter = 0;
+  document.getElementById('button').onClick = counter+=1;
+  if (counter = 0) {
+  window.open('test.html/')
+  }
+  </script>
